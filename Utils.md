@@ -25,14 +25,6 @@
 [VirtualBox安装Win10步骤](http://www.jianshu.com/p/91266376d112)<br>
 [AnywhereAnything](http://lackar.com/aa/)<br>
 [facebook](https://www.facebook.com/HumansTXT/)<br><br>
-[汉字字源网网站](Chinese Etymology)<br>
-[]()<br><br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br><br>
-[]()<br>
-[]()<br>
-[]()<br>
+[汉字字源网网站](http://wap.chineseetymology.org/CharacterEtymology.aspx?characterInput=%E8%BB%8A&submitButton1=Etymology)<br>
 []()<br>
 [汉字字源网网站](Chinese Etymology)
