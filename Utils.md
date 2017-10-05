@@ -23,6 +23,8 @@
 [蜘蛛磁力搜索](https://www.zzcili.net/)<br>
 [如何在Windows系统中安装VirtualBox](http://jingyan.baidu.com/article/414eccf64ce6a36b431f0a93.html)<br>
 [VirtualBox安装Win10步骤](http://www.jianshu.com/p/91266376d112)<br>
+[AnywhereAnything](http://lackar.com/aa/)<br>
+[facebook](https://www.facebook.com/HumansTXT/)<br><br>
 []()<br>
 []()<br><br>
 []()<br>
