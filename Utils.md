@@ -20,11 +20,12 @@
 [慕课网：安卓](http://www.imooc.com/topic/android?mc_marking=c1f3d696dcbb616b26bfe6a8a2d83dc2&mc_channel=bdazrmjt)<br>
 [微软应用商店](https://www.microsoft.com/zh-cn/store/apps/windows/)<br>
 [Windows 应用商店有哪些好的应用值得推荐？](https://www.zhihu.com/question/21099864?rf=35878330)<br>
+[谷歌应用商店（需要翻墙 和google账号）](https://play.google.com/store)</br>
 [蜘蛛磁力搜索](https://www.zzcili.net/)<br>
 [如何在Windows系统中安装VirtualBox](http://jingyan.baidu.com/article/414eccf64ce6a36b431f0a93.html)<br>
 [VirtualBox安装Win10步骤](http://www.jianshu.com/p/91266376d112)<br>
 [AnywhereAnything](http://lackar.com/aa/)<br>
-[facebook](https://www.facebook.com/HumansTXT/)<br><br>
+[facebook（要翻墙）](https://www.facebook.com/HumansTXT/)<br><br>
 [汉字字源网网站](http://wap.chineseetymology.org/CharacterEtymology.aspx?characterInput=%E8%BB%8A&submitButton1=Etymology)<br>
 []()<br>
 [汉字字源网网站](Chinese Etymology)
