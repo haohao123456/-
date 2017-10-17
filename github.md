@@ -86,6 +86,7 @@
 * [DataScience-And-MachineLearning-Handbook-For-Coders：编程者的关于数据科学和机器学习的掌上书](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders/blob/master/DataScienceAI-Reference.md#introduction-&-overview%E5%85%A5%E9%97%A8%E4%B8%8E%E6%A6%82%E8%A7%88)</br>
 * [编程随想：books](https://github.com/programthink/books#1312_)</br>
 # 前端JavaScript<br>
+[JavaScript Style Guide 中文版](https://github.com/sivan/javascript-style-guide)<br>
 [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn#api)</br>
 [前端工具集tools](https://github.com/nieweidong/fetool#other)</br>
 [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)</br>
