@@ -3,6 +3,7 @@
 [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)</br>
 [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)</br>
 [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software)</br>
+[关于林纳斯 托瓦斯](http://www.linuxidc.com/Linux/2014-03/98838.htm)</br>
 [0xE8551CCB/awesome-linux-software-cn](https://github.com/0xE8551CCB/awesome-linux-software-cn)</br>
 [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn#api)</br>
 [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs/blob/master/Chinese.md#%E5%A4%A9%E6%B0%94)</br>
