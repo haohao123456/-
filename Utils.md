@@ -30,3 +30,4 @@
 [掘金：开发者人手一个的chrome插件](http://chromecj.com/web-development/2018-04/869.html)<br>
 [chrome插件](http://chromecj.com)<br>
 [国内下载谷歌浏览器插件的方法总结](https://cloud.tencent.com/developer/news/200147)<br>
+[173应用网 chrome-ext](https://173app.com/chrome-ext)<br>
